@@ -27,12 +27,12 @@ Link App - https://plan-build-your-dream-house-price.streamlit.app/
 Link App - https://home-credit-default-risk-check-system.streamlit.app/
 
 
-# 5 Customer Satisfaction Rate
+# 5. Customer Satisfaction Rate
 
 Link App - https://customer-satisfaction-rate.streamlit.app/
 
 
-# 6 American Express Credit Card Default Prediction
+# 6. American Express Credit Card Default Prediction
 
 
 Link App - https://american-express-credit-card-default-prediction.streamlit.app/
