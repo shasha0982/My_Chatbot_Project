@@ -67,3 +67,9 @@ If the predicted default probability is greater than 0.5, it will display "Defau
 
 Repeat as Needed: You can repeat the process by entering information for different customers or modifying the input values for the same customer to see how it affects the prediction.
 
+
+
+# 7. Natural Language Processing Generator
+
+Link App - https://natural-language-processing-generator.streamlit.app/
+
