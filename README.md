@@ -14,3 +14,9 @@ Link Preview App - https://chatbottest1-cowa73db6wsvkxrcvzhgnv.streamlit.app/
 File Link - https://github.com/shasha0982/Calculation-House-Price-Prediction-App-3/tree/main
 
 Link Preview App - https://kdbcr22amhjjpjggfksgyn.streamlit.app/
+
+
+
+# 3 Plan Build Your Dream House Price
+
+Link App - https://plan-build-your-dream-house-price.streamlit.app/
