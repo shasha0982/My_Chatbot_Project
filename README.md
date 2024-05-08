@@ -37,7 +37,13 @@ Link App - https://customer-satisfaction-rate.streamlit.app/
 Link App - https://natural-language-processing-generator.streamlit.app/
 
 
-# 7. American Express Credit Card Default Prediction
+# 7. Computer Vision Generator
+
+
+Link App - https://computer-vision-generator.streamlit.app/
+
+
+# 8. American Express Credit Card Default Prediction
 
 
 Link App - https://american-express-credit-card-default-prediction.streamlit.app/
