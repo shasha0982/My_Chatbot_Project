@@ -32,7 +32,12 @@ Link App - https://home-credit-default-risk-check-system.streamlit.app/
 Link App - https://customer-satisfaction-rate.streamlit.app/
 
 
-# 6. American Express Credit Card Default Prediction
+# 6. Natural Language Processing Generator
+
+Link App - https://natural-language-processing-generator.streamlit.app/
+
+
+# 7. American Express Credit Card Default Prediction
 
 
 Link App - https://american-express-credit-card-default-prediction.streamlit.app/
@@ -66,10 +71,4 @@ Interpretation of Results: The app will display the predicted default probabilit
 If the predicted default probability is greater than 0.5, it will display "Default". Otherwise, it will display "No Default".
 
 Repeat as Needed: You can repeat the process by entering information for different customers or modifying the input values for the same customer to see how it affects the prediction.
-
-
-
-# 7. Natural Language Processing Generator
-
-Link App - https://natural-language-processing-generator.streamlit.app/
 
