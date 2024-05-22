@@ -40,7 +40,14 @@ Link App - https://mysql-ai.streamlit.app/
 
 
 
-# 7. American Express Credit Card Default Prediction
+# 7. My Analysis AI
+
+
+Link App - https://data-analysis-ai-official.streamlit.app/
+
+
+
+# 8. American Express Credit Card Default Prediction
 
 
 Link App - https://american-express-credit-card-default-prediction.streamlit.app/
