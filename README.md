@@ -32,7 +32,15 @@ Link App - https://home-credit-default-risk-check-system.streamlit.app/
 Link App - https://customer-satisfaction-rate.streamlit.app/
 
 
-# 6. American Express Credit Card Default Prediction
+
+# 6. MYSQL - AI
+
+
+Link App - https://mysql-ai.streamlit.app/
+
+
+
+# 7. American Express Credit Card Default Prediction
 
 
 Link App - https://american-express-credit-card-default-prediction.streamlit.app/
